@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Gavin's github stats] (https://github-readme-stats.vercel.app/api?username=oldelette)
+[![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldelette)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
